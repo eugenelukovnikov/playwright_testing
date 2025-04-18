@@ -21,7 +21,7 @@ jobs:
       - name: Ensure browsers are installed
         run: python -m playwright install --with-deps
       - name: Run your tests
-        run: pytest -s -v --alluredir=allure-results
+        run: pytest -s -v
       - uses: actions/upload-artifact@v4
         if: ${{ !cancelled() }}
         with:
