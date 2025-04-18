@@ -34,9 +34,9 @@ def take_screenshot_always(request, page):
 
 
 #Allure
-@pytest.hookimpl(tryfirst=True)
-def pytest_configure(config):
-    config.option.allure_report_dir = "allure-results"
+# @pytest.hookimpl(tryfirst=True)
+# def pytest_configure(config):
+#     config.option.allure_report_dir = "allure-results"
 
 
 #Параметры
