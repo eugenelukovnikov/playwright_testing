@@ -34,7 +34,7 @@ jobs:
           name: allure-results
           path: allure-results/
 
-name: Checkout gh-pages
+      - name: Checkout gh-pages
         uses: actions/checkout@v4
         if: always()
         continue-on-error: true
