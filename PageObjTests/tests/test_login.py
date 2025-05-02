@@ -1,5 +1,5 @@
-from ..pages.login_page import *
-from ..pages.dashboard_page import *
+from PageObjTests.pages.login_page import *
+from PageObjTests.pages.dashboard_page import *
 import allure
 
 
