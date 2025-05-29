@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","938","Пользователь ввел некорректные данные, ошибка","PageObjTests.tests","Mon Apr 14 18:06:13 GMT 2025","passed","Mon Apr 14 18:06:14 GMT 2025","","test_login","",""
+"","1630","Пользователь ввел корректные данные, успех","PageObjTests.tests","Mon Apr 14 18:06:14 GMT 2025","passed","Mon Apr 14 18:06:16 GMT 2025","","test_login","",""
+"","2081","Пользователь ввел корректные данные, успех","PageObjTests.tests","Mon Apr 14 18:06:16 GMT 2025","passed","Mon Apr 14 18:06:19 GMT 2025","","test_login","",""
+"","615","Пользователь успешно вышел из системы, успех","PageObjTests.tests","Mon Apr 14 18:06:22 GMT 2025","passed","Mon Apr 14 18:06:23 GMT 2025","","test_login","",""
+"","1327","Пользователь успешно вышел из системы, успех","PageObjTests.tests","Mon Apr 14 18:06:19 GMT 2025","passed","Mon Apr 14 18:06:20 GMT 2025","","test_login","",""
